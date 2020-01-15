@@ -11,7 +11,7 @@
 		<h2 class="judul">KALKULATOR</h2>
 		
 		<form method="post" action="tugas1.php">			
-			<input type="text" name="bil1" class="bil" autocomplete="off" placeholder="">
+			Masukan Jari-jari<input type="text" name="bil1" class="bil" autocomplete="off" placeholder="">
 			<input type="text" name="bil2" class="bil" autocomplete="off" placeholder="">
 			<select class="opt" name="operasi">
 				<option value="tambah">+</option>
